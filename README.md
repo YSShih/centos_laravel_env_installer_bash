@@ -24,6 +24,6 @@ TODO LIST:
     <li>加入os系統套件安裝來源Repository</li>
     <li>加入判斷已安裝系統環境套件</li>
     <li>mysql 安裝shell</li>
-    <li>php 安裝版本參數化</li>
+    <li>php 安裝版本參數化 、 優化php安裝 bash shell</li>
     <li>加入 php-fpm 、 nginx 、 apache 等套件 conf自動設定</li>    
 <ul>
